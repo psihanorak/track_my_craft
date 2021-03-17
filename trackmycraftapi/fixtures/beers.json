@@ -1,0 +1,50 @@
+[
+  {
+      "model": "trackmycraftapi.beer",
+      "pk": 1,
+      "fields": {
+          "craftuser_id": 1,
+          "category_id": 2,
+          "type": "Stout",
+          "publication_date": "2020-09-29",
+          "image_url": "image_url_placeholder",
+          "approved": true
+      }
+  },
+  {
+      "model": "trackmycraftapi.beer",
+      "pk": 2,
+      "fields": {
+          "craftuser_id": 2,
+          "category_id": 4,
+          "type": "Cider",
+          "publication_date": "2020-09-29",
+          "image_url": "image_url_placeholder",
+          "approved": true
+      }
+  },
+  {
+      "model": "trackmycraftapi.beer",
+      "pk": 3,
+      "fields": {
+          "craftuser_id": 3,
+          "category_id": 3,
+          "type": "Sour",
+          "publication_date": "2020-09-29",
+          "image_url": "image_url_placeholder",
+          "approved": true
+      }
+  },
+  {
+      "model": "trackmycraftapi.beer",
+      "pk": 4,
+      "fields": {
+          "craftuser_id": 4,
+          "category_id": 1,
+          "type": "IPA",
+          "publication_date": "2020-09-29",
+          "image_url": "image_url_placeholder",
+          "approved": true
+      }
+  }
+]

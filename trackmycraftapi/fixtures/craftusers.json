@@ -1,0 +1,42 @@
+[
+  {
+      "model": "trackmycraftapi.craftuser",
+      "pk": 1,
+      "fields": {
+          "user": 1,
+          "bio": "About Ponch",
+          "profile_image_url": "image_url_placeholder",
+          "created_on": "2020-08-28"
+      }
+  },
+  {
+      "model": "trackmycraftapi.craftuser",
+      "pk": 2,
+      "fields": {
+          "user": 2,
+          "bio": "About Hughes",
+          "profile_image_url": "image_url_placeholder",
+          "created_on": "2020-08-28"
+      }
+  },
+  {
+      "model": "trackmycraftapi.craftuser",
+      "pk": 3,
+      "fields": {
+          "user": 3,
+          "bio": "About Dawn",
+          "profile_image_url": "image_url_placeholder",
+          "created_on": "2020-08-28"
+      }
+  },
+  {
+      "model": "trackmycraftapi.craftuser",
+      "pk": 4,
+      "fields": {
+          "user": 4,
+          "bio": "About Abigail",
+          "profile_image_url": "image_url_placeholder",
+          "created_on": "2020-08-28"
+      }
+  }
+]
