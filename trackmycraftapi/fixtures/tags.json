@@ -1,0 +1,30 @@
+[
+  {
+      "model": "trackmycraftapi.tag",
+      "pk": 1,
+      "fields": {
+          "label": "tag1"
+      }
+  },
+  {
+      "model": "trackmycraftapi.tag",
+      "pk": 2,
+      "fields": {
+          "label": "tag2"
+      }
+  },
+  {
+      "model": "trackmycraftapi.tag",
+      "pk": 3,
+      "fields": {
+          "label": "tag3"
+      }
+  },
+  {
+      "model": "trackmycraftapi.tag",
+      "pk": 4,
+      "fields": {
+          "label": "tag4"
+      }
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+      "model": "auth.user",
+      "pk": 1,
+      "fields": {
+          "password": "pbkdf2_sha256$216000$qMRH8szID7Z8$Vljya2V3XfruOHuvx1hGz9ZyKg4bxbw7rc2WO0gTR7I=",
+          "last_login": null,
+          "is_superuser": false,
+          "username": "psihanorak",
+          "first_name": "Phonesalo",
+          "last_name": "Sihanorak",
+          "email": "psihanorak@gmail.com",
+          "is_staff": false,
+          "is_active": true,
+          "date_joined": "2020-08-28T14:51:39.989Z",
+          "groups": [],
+          "user_permissions": []
+      }
+  },
+  {
+      "model": "auth.user",
+      "pk": 2,
+      "fields": {
+          "password": "pbkdf2_sha256$216000$qMRH8szID7Z8$Vljya2V3XfruOHuvx1hGz9ZyKg4bxbw7rc2WO0gTR7I=",
+          "last_login": null,
+          "is_superuser": false,
+          "username": "hspeer",
+          "first_name": "Hughes",
+          "last_name": "Speer",
+          "email": "hspeer@gmail.com",
+          "is_staff": false,
+          "is_active": true,
+          "date_joined": "2020-08-28T14:51:39.989Z",
+          "groups": [],
+          "user_permissions": []
+      }
+  },
+  {
+      "model": "auth.user",
+      "pk": 3,
+      "fields": {
+          "password": "pbkdf2_sha256$216000$qMRH8szID7Z8$Vljya2V3XfruOHuvx1hGz9ZyKg4bxbw7rc2WO0gTR7I=",
+          "last_login": null,
+          "is_superuser": false,
+          "username": "dspeer",
+          "first_name": "Dawn",
+          "last_name": "Speer",
+          "email": "dspeer@gmail.com",
+          "is_staff": false,
+          "is_active": true,
+          "date_joined": "2020-08-28T14:51:39.989Z",
+          "groups": [],
+          "user_permissions": []
+      }
+  },
+  {
+      "model": "auth.user",
+      "pk": 4,
+      "fields": {
+          "password": "pbkdf2_sha256$216000$qMRH8szID7Z8$Vljya2V3XfruOHuvx1hGz9ZyKg4bxbw7rc2WO0gTR7I=",
+          "last_login": null,
+          "is_superuser": false,
+          "username": "awaltz",
+          "first_name": "Abigail",
+          "last_name": "Waltz",
+          "email": "awaltz@gmail.com",
+          "is_staff": false,
+          "is_active": true,
+          "date_joined": "2020-08-28T14:51:39.989Z",
+          "groups": [],
+          "user_permissions": []
+      }
+  }
+  
+]

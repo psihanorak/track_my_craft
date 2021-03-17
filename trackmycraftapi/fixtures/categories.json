@@ -1,0 +1,30 @@
+[
+  {
+      "model": "trackmycraftapi.category",
+      "pk": 1,
+      "fields": {
+          "label": "IPAs"
+      }
+  },
+  {
+      "model": "trackmycraftapi.category",
+      "pk": 2,
+      "fields": {
+          "label": "Stouts"
+      }
+  },
+  {
+      "model": "trackmycraftapi.category",
+      "pk": 3,
+      "fields": {
+          "label": "Sours"
+      }
+  },
+  {
+      "model": "trackmycraftapi.category",
+      "pk": 4,
+      "fields": {
+          "label": "Ciders"
+      }
+  }
+]

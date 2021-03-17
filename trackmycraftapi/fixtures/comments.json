@@ -1,0 +1,102 @@
+[
+  {
+      "model": "trackmycraftapi.comment",
+      "pk": 1,
+      "fields": {
+          "beer_id": 1,
+          "author_id": 1, 
+          "content": "Test Comment #1",
+          "created_on": "2020-12-12 19:01:14.248556"
+      }
+  },
+  {
+    "model": "trackmycraftapi.comment",
+    "pk": 2,
+    "fields": {
+        "beer_id": 1,
+        "author_id": 2, 
+        "content": "Test Comment #2",
+        "created_on": "2020-12-12 19:01:14.248556"
+    }
+  },
+  {
+    "model": "trackmycraftapi.comment",
+    "pk": 3,
+    "fields": {
+        "beer_id": 2,
+        "author_id": 4, 
+        "content": "Test Comment #3",
+        "created_on": "2020-12-12 19:01:14.248556"
+    }
+  },
+  {
+    "model": "trackmycraftapi.comment",
+    "pk": 4,
+    "fields": {
+        "beer_id": 2,
+        "author_id": 2, 
+        "content": "Test Comment #4",
+        "created_on": "2020-12-12 19:01:14.248556"
+    }
+  },
+  {
+    "model": "trackmycraftapi.comment",
+    "pk": 5,
+    "fields": {
+        "beer_id": 2,
+        "author_id": 3, 
+        "content": "Test Comment #5",
+        "created_on": "2020-12-12 19:01:14.248556"
+    }
+  },
+  {
+    "model": "trackmycraftapi.comment",
+    "pk": 6,
+    "fields": {
+        "beer_id": 3,
+        "author_id": 1, 
+        "content": "Test Comment #6",
+        "created_on": "2020-12-12 19:01:14.248556"
+    }
+  },
+  {
+    "model": "trackmycraftapi.comment",
+    "pk": 7,
+    "fields": {
+        "beer_id": 4,
+        "author_id": 4, 
+        "content": "Test Comment #7",
+        "created_on": "2020-12-12 19:01:14.248556"
+    }
+  },
+  {
+    "model": "trackmycraftapi.comment",
+    "pk": 8,
+    "fields": {
+        "beer_id": 1,
+        "author_id": 1, 
+        "content": "Test Comment #8",
+        "created_on": "2020-12-12 19:01:14.248556"
+    }
+  },
+  {
+    "model": "trackmycraftapi.comment",
+    "pk": 9,
+    "fields": {
+        "beer_id": 2,
+        "author_id": 3, 
+        "content": "Test Comment #9",
+        "created_on": "2020-12-12 19:01:14.248556"
+    }
+  },
+  {
+    "model": "trackmycraftapi.comment",
+    "pk": 10,
+    "fields": {
+        "beer_id": 2,
+        "author_id": 2, 
+        "content": "Test Comment #10",
+        "created_on": "2020-12-12 19:01:14.248556"
+    }
+  }
+]
